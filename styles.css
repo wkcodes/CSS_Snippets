@@ -1,0 +1,7 @@
+.strobe {
+  animation: myColorStrobe 1s infinite;
+}
+
+.bouncy__strobe {
+  animation: myBounce 2s infinite, myColorStrobe 1s infinite;
+}
